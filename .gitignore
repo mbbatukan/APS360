@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 # /Tutorials
 *.DS_Store
+*.csv
+*.zip
+
 __pycache__/
 *.py[cod]
 *$py.class
